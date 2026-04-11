@@ -20,4 +20,4 @@ python reconx.py <target>
 For authorized testing only.
 
 ## Author
-Your Name | LinkedIn | HackTheBox
+Your $hinchan | LinkedIn | HackTheBox
