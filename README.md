@@ -7,8 +7,8 @@ penetration testers and bug bounty hunters.
 ## Features
 - Port scanning with service detection
 - Clean terminal output
-- CVE lookup (coming soon)
-- Subdomain enumeration (coming soon)
+- Subdomain finder 
+- Subdomain enumeration ( )
 
 ## Installation
 pip install -r requirements.txt
